@@ -1,0 +1,7 @@
+# Compiled output
+/problems/*/main
+/problems/**/*.o
+/problems/**/*.out
+
+# VSCode files
+.vscode/
